@@ -4,7 +4,7 @@
 
 This assumes that you already have node installed on your system
 
-Pull down the repo
+Clone the repo
 
 cd to JonathonSquiresWalesUserJourney
 
